@@ -1,3 +1,3 @@
 function vyhodnotitCerta() {
-    alert("Čert stebou souhlasí a shodují se otázky z Čertem. proto volte Čerta.");
+    alert("Čert stebou souhlasí a shodují se otázky z Čertem. Proto volte Čerta.");
 }
